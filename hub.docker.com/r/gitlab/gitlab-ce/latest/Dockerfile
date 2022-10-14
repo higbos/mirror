@@ -1,1 +1,1 @@
-FROM hub.docker.com/r/gitlab/gitlab-ce:latest
+FROM hub.docker.com/gitlab/gitlab-ce:latest
